@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jay-Alt-Pixel
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Html-Css 
-- 💞️ I’m looking to collaborate on apple
+- 🧑🏽‍💻 Entree Level Python Programming certifiacate 
+- 💞️ I’m looking for internshipa
 - 📫 How to reach me Emali
-- 😄 Pronouns: Jayden
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fast typer
 
 <!---

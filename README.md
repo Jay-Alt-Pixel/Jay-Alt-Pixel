@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jay-Alt-Pixel
 - 👀 I’m interested in python
 - 🧑🏽‍💻 Entree Level Python Programming certifiacate 
-- 💞️ I’m looking for internshipa
+- 💞️ I’m looking for internships
 - 📫 How to reach me Emali
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fast typer
